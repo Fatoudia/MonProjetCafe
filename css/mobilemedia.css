@@ -1,0 +1,81 @@
+p {
+  padding: 20px;
+}
+/* header */
+.header nav h1 {
+  float: none;
+  text-align: center;
+}
+
+.header nav ul {
+  float: none;
+  padding: 0;
+}
+
+.header nav ul li {
+  float: none;
+}
+
+.header nav ul li a {
+  padding: 10px;
+  text-align: center;
+}
+
+/* VP */
+
+.vp-content {
+  padding-top: 50px;
+}
+
+.vp-content h1 {
+  font-size: 2rem;
+}
+
+/* .features  */
+
+.features {
+  padding: 50px 0;
+}
+.feature {
+  width: 100%;
+  margin-bottom: 2rem;
+  float: none;
+}
+/* where */
+
+.where {
+  padding: 80px 20px 50px 20px;
+}
+
+.where-img {
+  float: none;
+  width: 80%;
+  border: 0;
+  display: block;
+  margin: auto;
+  margin-bottom: 3rem;
+  border-radius: 5px;
+}
+
+.where-text {
+  float: none;
+  width: 100%;
+}
+
+/* ... */
+
+/* contact */
+
+.contact {
+  padding: 50px 0;
+}
+
+/* .reservation {
+  padding: 20px 0px;
+} */
+
+/* where */
+
+.where {
+  padding: 40px 0;
+}
